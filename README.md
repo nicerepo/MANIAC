@@ -4,7 +4,7 @@
 MANIAC is a modern dynamic binary instrumentation engine for Android and Fuchsia.
 
 ## Demo
-See [`maniac_demo`](https://github.com/nicerepo/maniac_demo).
+See [`maniac_demo`](https://github.com/nicerepo/maniac_demo). The demo module hijacks the target application's `rand()` function and makes it return a fixed value of `1337`.
 
 <img src="https://github.com/nicerepo/maniac_demo/raw/master/demo.gif" width="480" />
 
