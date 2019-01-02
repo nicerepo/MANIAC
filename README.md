@@ -13,7 +13,7 @@ MANIAC is a modern dynamic binary instrumentation engine for Android and Fuchsia
 ## FAQ
 ### How does it differ from Xposed?
 The aims are similar, but implementation details greatly differ.
-* MANIAC modules work further down the stack, as the engine primarily instruments native code as opposed to ART/Dalvik. Without the constraints of a process VM, MANIAC modules are far more capable.
+* MANIAC modules work further down the stack, as the engine primarily instruments native code as opposed to ART/Dalvik. Without the constraints of the process VM, MANIAC modules are far more capable.
 * MANIAC requires no permanent modification of the host system, as it only needs a single root-privileged process to bootstrap the runtime environment.
 
 ### Where can I find more modules to install?
