@@ -3,6 +3,11 @@
 ## Description
 MANIAC is a modern dynamic binary instrumentation engine for Android and Fuchsia.
 
+## Demo
+See [`maniac_demo`](https://github.com/nicerepo/maniac_demo).
+
+<img src="https://github.com/nicerepo/maniac_demo/raw/master/demo.gif" width="480" />
+
 ## Project Structure
 * [`maniac_manager`](https://github.com/nicerepo/maniac_manager): A Flutter-based frontend for managing modules.
 * [`maniacd`](https://github.com/nicerepo/maniacd): Process-detection watchdog that monitors `zygote`.
