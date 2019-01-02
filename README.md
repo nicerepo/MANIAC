@@ -17,7 +17,7 @@ The aims are similar, but implementation details greatly differ.
 * MANIAC requires no permanent modification of the host system, as it only needs a single root-privileged process to bootstrap the runtime environment.
 
 ### Where can I find more modules to install?
-The project is currently in a pre-alpha stage and no official modules repository exist as of yet. Refer to the [`maniac_demo`](https://github.com/nicerepo/maniac_demo) project
+The project is currently in a pre-alpha stage and no official modules repository exist as of yet. Refer to the [`maniac_demo`](https://github.com/nicerepo/maniac_demo) project for building your own modules.
 
 ## Technical Details (WIP)
 ### Execution Flow
